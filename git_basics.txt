@@ -1,0 +1,11 @@
+Basic commands when using Git
+
+once you have repo >> get clone <insert URL from Github>
+
+git add  <file name>  >> adds newly edited file to staging area
+
+git commit >> commits previously staged files 
+
+git log >> a log book of all commits **hit Q to exit log**
+
+git status >> will show status of items in/out of staged area
