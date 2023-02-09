@@ -1,10 +1,20 @@
 Basic commands when using Git
 
+Start a new repo on git hub ( use + sign in top right corner)
+
+Name repo and then get URL from green Code button, make sure you get SSH URL
+
 once you have repo >> get clone <insert URL from Github>
 
 git add  <file name>  >> adds newly edited file to staging area
 
 git commit >> commits previously staged files 
+    you do not need to add a message to it ((git commit -m)), you have edited it to have VSC open up when only entering git commit, from there you will 
+    enter whatever message you need to in a tab, save it, and then exit the tab. 
+
+git push >> will push all staged files up to Github
+    from here, newly edited files should display on github.
+    DO NOT TRY TO EDIT FILES FRIM Github. 
 
 git log >> a log book of all commits **hit Q to exit log**
 
